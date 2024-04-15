@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Patrickcolon97
-- 👀 I’m interested in everything i can learn
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on creative ideas
-
+Data analyst with a passion for transforming raw data into actionable insights. 
+Excel, SQL, and Power BI aficionado with a knack for data visualization and storytelling. 
+Google and Codecademy certified. 
+Let’s unlock the potential of data together! 📊💡
+ #DataAnalytics #DataStorytelling
